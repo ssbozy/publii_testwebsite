@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/ssbozy/publii_testwebsite/sitemap.xml

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sandilya Bhamidipati",
+    "description": "",
+    "home_page_url": "https://github.com/ssbozy/publii_testwebsite",
+    "feed_url": "https://github.com/ssbozy/publii_testwebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sandy B"
+    },
+    "items": [
+        {
+            "id": "https://github.com/ssbozy/publii_testwebsite/hello-world.html",
+            "url": "https://github.com/ssbozy/publii_testwebsite/hello-world.html",
+            "title": "Hello World",
+            "summary": "This is a test post. I am trying out a few things to see how it works.",
+            "content_html": "<p>This is a test post. I am trying out a few things to see how it works. </p>\n",
+            "author": {
+                "name": "Sandy B"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T13:59:05-07:00",
+            "date_modified": "2022-10-19T13:59:05-07:00"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Sandilya Bhamidipati</title>
+    <link href="https://github.com/ssbozy/publii_testwebsite/feed.xml" rel="self" />
+    <link href="https://github.com/ssbozy/publii_testwebsite" />
+    <updated>2022-10-19T13:59:05-07:00</updated>
+    <author>
+        <name>Sandy B</name>
+    </author>
+    <id>https://github.com/ssbozy/publii_testwebsite</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Sandy B</name>
+        </author>
+        <link href="https://github.com/ssbozy/publii_testwebsite/hello-world.html"/>
+        <id>https://github.com/ssbozy/publii_testwebsite/hello-world.html</id>
+
+        <updated>2022-10-19T13:59:05-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test post. I am trying out a few things to see how it works.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post. I am trying out a few things to see how it works. </p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

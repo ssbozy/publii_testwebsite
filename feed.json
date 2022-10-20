@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sandilya Bhamidipati",
     "description": "",
-    "home_page_url": "https://github.com/ssbozy/publii_testwebsite",
-    "feed_url": "https://github.com/ssbozy/publii_testwebsite/feed.json",
+    "home_page_url": "https://www.sandilya.com/publii_testwebsite",
+    "feed_url": "https://www.sandilya.com/publii_testwebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sandy B"
     },
     "items": [
         {
-            "id": "https://github.com/ssbozy/publii_testwebsite/hello-world.html",
-            "url": "https://github.com/ssbozy/publii_testwebsite/hello-world.html",
+            "id": "https://www.sandilya.com/publii_testwebsite/test-post-no-2.html",
+            "url": "https://www.sandilya.com/publii_testwebsite/test-post-no-2.html",
+            "title": "Test post no. 2",
+            "summary": "Bank of the West is an American financial institution headquartered in San Francisco, California, United States. It is a subsidiary of the French international banking group BNP Paribas and has more than 600 branches and offices in the Midwest and Western United States. Wikipedia",
+            "content_html": "<p>Bank of the West is an American financial institution headquartered in San Francisco, California, United States. It is a subsidiary of the French international banking group BNP Paribas and has more than 600 branches and offices in the Midwest and Western United States. <a class=\"ruhjFe NJLBac fl\" href=\"https://en.wikipedia.org/wiki/Bank_of_the_West\" data-jsarwt=\"1\" data-usg=\"AOvVaw08xneGUjTP1MgnSItkVuHL\" data-ved=\"2ahUKEwiZl53Qh-36AhUQL0QIHcg5ACIQmhN6BAgZEAI\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></p>",
+            "author": {
+                "name": "Sandy B"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T17:05:15-07:00",
+            "date_modified": "2022-10-19T17:05:15-07:00"
+        },
+        {
+            "id": "https://www.sandilya.com/publii_testwebsite/hello-world.html",
+            "url": "https://www.sandilya.com/publii_testwebsite/hello-world.html",
             "title": "Hello World",
             "summary": "This is a test post. I am trying out a few things to see how it works.",
             "content_html": "<p>This is a test post. I am trying out a few things to see how it works. </p>\n",

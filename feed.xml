@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Sandilya Bhamidipati</title>
-    <link href="https://github.com/ssbozy/publii_testwebsite/feed.xml" rel="self" />
-    <link href="https://github.com/ssbozy/publii_testwebsite" />
-    <updated>2022-10-19T13:59:05-07:00</updated>
+    <link href="https://www.sandilya.com/publii_testwebsite/feed.xml" rel="self" />
+    <link href="https://www.sandilya.com/publii_testwebsite" />
+    <updated>2022-10-19T17:05:15-07:00</updated>
     <author>
         <name>Sandy B</name>
     </author>
-    <id>https://github.com/ssbozy/publii_testwebsite</id>
+    <id>https://www.sandilya.com/publii_testwebsite</id>
 
+    <entry>
+        <title>Test post no. 2</title>
+        <author>
+            <name>Sandy B</name>
+        </author>
+        <link href="https://www.sandilya.com/publii_testwebsite/test-post-no-2.html"/>
+        <id>https://www.sandilya.com/publii_testwebsite/test-post-no-2.html</id>
+
+        <updated>2022-10-19T17:05:15-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Bank of the West is an American financial institution headquartered in San Francisco, California, United States. It is a subsidiary of the French international banking group BNP Paribas and has more than 600 branches and offices in the Midwest and Western United States. Wikipedia
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bank of the West is an American financial institution headquartered in San Francisco, California, United States. It is a subsidiary of the French international banking group BNP Paribas and has more than 600 branches and offices in the Midwest and Western United States. <a class="ruhjFe NJLBac fl" href="https://en.wikipedia.org/wiki/Bank_of_the_West" data-jsarwt="1" data-usg="AOvVaw08xneGUjTP1MgnSItkVuHL" data-ved="2ahUKEwiZl53Qh-36AhUQL0QIHcg5ACIQmhN6BAgZEAI" target="_blank" rel="noopener">Wikipedia</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World</title>
         <author>
             <name>Sandy B</name>
         </author>
-        <link href="https://github.com/ssbozy/publii_testwebsite/hello-world.html"/>
-        <id>https://github.com/ssbozy/publii_testwebsite/hello-world.html</id>
+        <link href="https://www.sandilya.com/publii_testwebsite/hello-world.html"/>
+        <id>https://www.sandilya.com/publii_testwebsite/hello-world.html</id>
 
         <updated>2022-10-19T13:59:05-07:00</updated>
             <summary>

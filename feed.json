@@ -6,7 +6,7 @@
     "feed_url": "https://www.sandilya.com/publii_testwebsite/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Sandy B"
+        "name": "SB"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "Bank of the West is an American financial institution headquartered in San Francisco, California, United States. It is a subsidiary of the French international banking group BNP Paribas and has more than 600 branches and offices in the Midwest and Western United States. Wikipedia",
             "content_html": "<p>Bank of the West is an American financial institution headquartered in San Francisco, California, United States. It is a subsidiary of the French international banking group BNP Paribas and has more than 600 branches and offices in the Midwest and Western United States. <a class=\"ruhjFe NJLBac fl\" href=\"https://en.wikipedia.org/wiki/Bank_of_the_West\" data-jsarwt=\"1\" data-usg=\"AOvVaw08xneGUjTP1MgnSItkVuHL\" data-ved=\"2ahUKEwiZl53Qh-36AhUQL0QIHcg5ACIQmhN6BAgZEAI\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></p>",
             "author": {
-                "name": "Sandy B"
+                "name": "SB"
             },
             "tags": [
             ],
@@ -27,15 +27,15 @@
             "id": "https://www.sandilya.com/publii_testwebsite/hello-world.html",
             "url": "https://www.sandilya.com/publii_testwebsite/hello-world.html",
             "title": "Hello World",
-            "summary": "This is a test post. I am trying out a few things to see how it works.",
-            "content_html": "<p>This is a test post. I am trying out a few things to see how it works. </p>\n",
+            "summary": "###This is a test post. I am trying out a few things to see how it works. Invisible and relentless, sound is seemingly just there, traveling through our surroundings to carry beautiful music or annoying noises. In this article I’ll explain what sound is, how&hellip;",
+            "content_html": "<p>###This is a test post. </p>\n<p>I am trying out a few things to see how it works. </p>\n<p>Invisible and relentless, sound is seemingly just there, traveling through our surroundings to carry beautiful music or annoying noises. In this article I’ll explain what sound is, how it’s created and propagated.</p>\n<p>Throughout this presentation you will be hearing different sounds, which you will often play yourself on little keyboards like the one below. You can either click its keys with your mouse or use WER keys on your computer keyboard, but before you do so make sure your system volume is at a reasonable level:</p>\n<p>We’ll eventually understand how these sounds are created and how they get to your ears, but we have to start by talking about the medium that is most commonly associated with sound – air.</p>\n<p>###Air</p>\n<p>You’re probably aware that at microscopic level air consists of individual, tiny particles. Let’s look at the behavior of those molecules up close. In the demonstration below, I parceled out a tiny cube of air – notice how the molecules freely enter and leave this space. You can drag the cube around to change the viewing angle and you can also control the speed of the flow of time with the slider:</p>\n",
             "author": {
-                "name": "Sandy B"
+                "name": "SB"
             },
             "tags": [
             ],
             "date_published": "2022-10-19T13:59:05-07:00",
-            "date_modified": "2022-10-19T13:59:05-07:00"
+            "date_modified": "2022-10-19T17:34:31-07:00"
         }
     ]
 }

@@ -3,16 +3,16 @@
     <title>Sandilya Bhamidipati</title>
     <link href="https://www.sandilya.com/publii_testwebsite/feed.xml" rel="self" />
     <link href="https://www.sandilya.com/publii_testwebsite" />
-    <updated>2022-10-19T17:05:15-07:00</updated>
+    <updated>2022-10-19T17:34:31-07:00</updated>
     <author>
-        <name>Sandy B</name>
+        <name>SB</name>
     </author>
     <id>https://www.sandilya.com/publii_testwebsite</id>
 
     <entry>
         <title>Test post no. 2</title>
         <author>
-            <name>Sandy B</name>
+            <name>SB</name>
         </author>
         <link href="https://www.sandilya.com/publii_testwebsite/test-post-no-2.html"/>
         <id>https://www.sandilya.com/publii_testwebsite/test-post-no-2.html</id>
@@ -32,20 +32,26 @@
     <entry>
         <title>Hello World</title>
         <author>
-            <name>Sandy B</name>
+            <name>SB</name>
         </author>
         <link href="https://www.sandilya.com/publii_testwebsite/hello-world.html"/>
         <id>https://www.sandilya.com/publii_testwebsite/hello-world.html</id>
 
-        <updated>2022-10-19T13:59:05-07:00</updated>
+        <updated>2022-10-19T17:34:31-07:00</updated>
             <summary>
                 <![CDATA[
-                    This is a test post. I am trying out a few things to see how it works.
+                    ###This is a test post. I am trying out a few things to see how it works. Invisible and relentless, sound is seemingly just there, traveling through our surroundings to carry beautiful music or annoying noises. In this article I’ll explain what sound is, how&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a test post. I am trying out a few things to see how it works. </p>
+                <p>###This is a test post. </p>
+<p>I am trying out a few things to see how it works. </p>
+<p>Invisible and relentless, sound is seemingly just there, traveling through our surroundings to carry beautiful music or annoying noises. In this article I’ll explain what sound is, how it’s created and propagated.</p>
+<p>Throughout this presentation you will be hearing different sounds, which you will often play yourself on little keyboards like the one below. You can either click its keys with your mouse or use WER keys on your computer keyboard, but before you do so make sure your system volume is at a reasonable level:</p>
+<p>We’ll eventually understand how these sounds are created and how they get to your ears, but we have to start by talking about the medium that is most commonly associated with sound – air.</p>
+<p>###Air</p>
+<p>You’re probably aware that at microscopic level air consists of individual, tiny particles. Let’s look at the behavior of those molecules up close. In the demonstration below, I parceled out a tiny cube of air – notice how the molecules freely enter and leave this space. You can drag the cube around to change the viewing angle and you can also control the speed of the flow of time with the slider:</p>
 
             ]]>
         </content>

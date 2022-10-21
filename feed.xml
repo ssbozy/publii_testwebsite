@@ -5,14 +5,14 @@
     <link href="https://www.sandilya.com/publii_testwebsite" />
     <updated>2022-10-19T17:54:20-07:00</updated>
     <author>
-        <name>SB</name>
+        <name>Sandilya Bhamidipati</name>
     </author>
     <id>https://www.sandilya.com/publii_testwebsite</id>
 
     <entry>
         <title>Bank of the West</title>
         <author>
-            <name>SB</name>
+            <name>Sandilya Bhamidipati</name>
         </author>
         <link href="https://www.sandilya.com/publii_testwebsite/test-post-no-2/"/>
         <id>https://www.sandilya.com/publii_testwebsite/test-post-no-2/</id>
@@ -30,9 +30,29 @@
         </content>
     </entry>
     <entry>
+        <title>Welcome from SQLite Browser</title>
+        <author>
+            <name>Sandilya Bhamidipati</name>
+        </author>
+        <link href="https://www.sandilya.com/publii_testwebsite/sqlite-browser/"/>
+        <id>https://www.sandilya.com/publii_testwebsite/sqlite-browser/</id>
+
+        <updated>2022-10-19T17:37:53-07:00</updated>
+            <summary>
+                <![CDATA[
+                    If this works, I am going to do miracles
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                If this works, I am going to do miracles
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Hello World</title>
         <author>
-            <name>SB</name>
+            <name>Sandilya Bhamidipati</name>
         </author>
         <link href="https://www.sandilya.com/publii_testwebsite/hello-world/"/>
         <id>https://www.sandilya.com/publii_testwebsite/hello-world/</id>
